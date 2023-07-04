@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main"
 /**
  * rev_string - prints a string in reverse
@@ -26,4 +27,3 @@ void rev_string(char *string)
 		index += 1;
 	}
 }
-
